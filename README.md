@@ -1,24 +1,11 @@
-# README
+# Хуснутдинов Лаб раб №3-4
+Упражнения для 4 лабы:
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+1)
+![image](https://user-images.githubusercontent.com/86710885/195379831-f316fb1d-f771-40af-982e-3a840ef27b8d.png)
 
-Things you may want to cover:
+2)
+![image](https://user-images.githubusercontent.com/86710885/195380407-17505433-c19c-4b5f-9d3b-8baf18238a1a.png)
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+3)
+![image](https://user-images.githubusercontent.com/86710885/195382943-bd229328-8e21-4874-a20b-9597c7565c5d.png)
