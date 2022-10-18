@@ -5,6 +5,12 @@ ruby "3.1.2"
 
 gem "ffi"
 
+gem 'faker'
+
+gem 'will_paginate'
+
+gem 'bootstrap-will_paginate'
+
 gem 'bootstrap-sass'
 
 gem 'byebug'
