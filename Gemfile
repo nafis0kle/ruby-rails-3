@@ -7,6 +7,12 @@ gem "ffi"
 
 gem 'faker'
 
+gem 'carrierwave'
+
+gem 'mini_magick'
+
+gem 'fog', '1.36.0'
+
 gem 'will_paginate'
 
 gem 'bootstrap-will_paginate'
