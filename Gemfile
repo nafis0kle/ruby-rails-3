@@ -13,6 +13,10 @@ gem 'mini_magick'
 
 gem 'fog', '1.36.0'
 
+gem 'rspec'
+
+gem 'rspec-core'
+
 gem 'will_paginate'
 
 gem 'bootstrap-will_paginate'
